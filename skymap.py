@@ -75,6 +75,3 @@ if __name__ == "__main__":
     skymapper = skymap([38.275451, -0.614771])
     map = skymapper.get_coords("Mars")
     print(map)
-
-
-jgfufu
